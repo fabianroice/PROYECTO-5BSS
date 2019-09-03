@@ -1,4 +1,3 @@
-# PROYECTO-5BSS
 # *5BSS -  5 BIOMETRIC SECURITY SYSTEM*
   
 #       *Generando impacto, dejando huella*
@@ -22,14 +21,11 @@
 
 **7**.Bibliografía
 
-
-**OBJETIVO GENERAL**
-![enter image description here](https://lh3.googleusercontent.com/SanlG49KLXsfj3JjoFkBPsNxjP1wjVu05JnFvNgEWPb-5k2nGakwdcKae64Ro9lOtml15Jbya70 "OBJETIVO")
-
+## *OBJETIVO GENERAL*
 Ofrecer a nuestros clientes un sistema de encendido y monitoreo de vehículos, con desarrollos en tecnología de ultima generación, garantizando sistemas totalmente seguros y funcionales, entregando así un producto confiable y eficiente con el cual el cliente este conforme y satisfecho.
 
+## *OBJETIVOS ESPECÍFICOS*
 
-![enter image description here](https://lh3.googleusercontent.com/mS9UOKucmBoM9Shb1_aK50IzzFtMFKApRWeNkB7KM7CWPYPC7LFPAKe6CQxxKAVld1OluqC3BYg "OE")
 **1**. Estar a la vanguardia de nuevas tecnologías para ofrecer a nuestros clientes soluciones de seguridad de ultima generación.
 **2**.  Tener como prioridad la seguridad de los vehículos de nuestros clientes.
 **3**.  Entregar a nuestros clientes un servicio integral, con el que se ofrece un sistema de seguridad de fácil manejo.
@@ -52,8 +48,8 @@ Se quiere llegar a abarcar los sistemas de seguridad y monitoreo de una forma in
 
 ## *ALCANCE*
 Se quiere abarcar un publico el cual tenga la necesidad de tener el control de su vehículo, ofreciendo un nuevo sistema de encendido del mismo, atrayendo clientes los cuales quieran una herramienta sofisticada en su vehículo.
-También se quiere atraer los clientes que necesitan realizar monitoreo de sus vehículo, ya que pueden ser vehículos familiares, y de esta forma poder estar al tanto de las acciones realizadas con el vehículo.
 
+También se quiere atraer los clientes que necesitan realizar monitoreo de sus vehículo, ya que pueden ser vehículos familiares, y de esta forma poder estar al tanto de las acciones realizadas con el vehículo.
 
 
 ## *BIBLIOGRAFÍA*
